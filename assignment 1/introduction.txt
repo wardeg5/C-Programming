@@ -1,0 +1,37 @@
+1. I am taking CS 133U to learn a little more about programming as a hobby.
+2. I have a fair amount of experience with web design and took a year of classes dealing with HTML5, Javascript/CSS/Jquery etc. I also completed all of Code Academy.
+3. I will be using Windows 7.
+4. I will be using Visual Studio 2013.
+5. According to the class dropbox the assignments are...
+
+Introduction assignment: April 4
+Testing the Environment: April 4
+Simple Print: April 13
+Data Exercise Assignment and formatted IO: April 20
+Arithmetic Expressions assignment: April 27
+Condionts and Loops: May 4
+Arrays Assignment: May 11
+Strings: May 18
+Functions Assignment: May 25
+Structures: June 1
+Pointers and Function (EC) : June 8
+Pointers Array and Funciton (EC): June 8
+Slection EC: June 8
+
+6.
+1 Mid-Term Examination Jun 13, 2015 1:03 PM
+1 Final Examination Jun 13, 2015 1:03 PM
+
+7. Open the entire term.
+
+8.Two attempts are allowed on mandatory graded exams.
+
+9. email, discussion board posting, and class announcements
+
+10. Programming Assignments - 600 points possible
+Lab Assignments - 100 points possible
+Extra Work Assignments - 300 points possible
+
+Total: 1000 points possible for assignments
+
+11.Office hours are posted on the Calendar and are generally held online. The upcoming office hours are at 9:30AM on Saturday.
